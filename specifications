@@ -1,1 +1,11 @@
+Character Robot (no idea for name) :
+  life = 100
+  levelBatteri = 100%
+  attack = 10
+  defense = 10
+  weapon = "A big Saw"
+  weaponDamage = 15
+  etc.
 
+It story :
+  When it was create, it just want to run away !!!
